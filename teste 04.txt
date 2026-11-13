@@ -1,2 +1,3 @@
 Nome = input ("Qual o seu nome?")
 print ("seja bem vindo", Nome)
+oi vou aoagar essa frase
